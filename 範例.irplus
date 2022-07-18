@@ -1,0 +1,17 @@
+<irplus>
+ <device manufacturer="Tatung" model="Air-Conditioner" columns="20" format="WINLIRC_SPACEENC" one-pulse="650" one-space="1750" zero-pulse="650" zero-space="550" header-pulse="3650" header-space="2350" gap-space="8900" gap-pulse="650" bits="30" pre-bits="1"  toggle-bit-pos="" repeat="2">
+  <button label="開" labelSize="25.0" span="8">0x0 0x38884F17</button>
+  <button label="&#61457;" labelSize="25.0" span="4" backgroundColor="44C84334"> </button>
+  <button label="關" labelSize="25.0" span="8">0x0 0x18884F17</button>
+  
+  <button label="設定" labelSize="25.0" span="20" backgroundColor="00444444"> </button>
+  <button label="機能=冷氣" labelSize="25.0" span="20" backgroundColor="00444444"> </button>
+  <button label="韻律=True" labelSize="25.0" span="20" backgroundColor="00444444"> </button>
+  <button label="睡眠=False" labelSize="25.0" span="20" backgroundColor="00444444"> </button>
+  <button label="定時=取消" labelSize="25.0" span="20" backgroundColor="00444444"> </button>
+  <button label="Fuzzy=適" labelSize="25.0" span="20" backgroundColor="00444444"> </button>
+  <button label="殺菌=True" labelSize="25.0" span="20" backgroundColor="00444444"> </button>
+  <button label="風速=自動" labelSize="25.0" span="20" backgroundColor="00444444"> </button>
+  <button label="溫度=29" labelSize="25.0" span="20" backgroundColor="00444444"> </button>
+ </device>
+</irplus>
